@@ -51,5 +51,6 @@ Ensure you have the following installed:
    git clone https://github.com/your-repo/ZigWheels-Automation.git
    cd ZigWheels-Automation
 ### Report
-reports/ExtentReport.html
+   ```sh
+   reports/ExtentReport.html
 
